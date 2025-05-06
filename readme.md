@@ -2,7 +2,7 @@
 
 ## 🎯 Objetivo do Produto
 
-A plataforma TOI tem como objetivo gamificar a participação de ciradores de conteúdo em campanhas de divulgação nas redes sociais (Instagram e facebook), permitindo o acompanhamento de performance por métricas, ranqueamento dos participantes e gerenciamento administrativo completo de campanhas e conteúdos gerados.
+A plataforma TOI tem como objetivo gamificar a participação de criadores de conteúdo em campanhas de divulgação nas redes sociais (Instagram e facebook), permitindo o acompanhamento de performance por métricas, ranqueamento dos participantes e gerenciamento administrativo completo de campanhas e conteúdos gerados.
 
 ---
 
