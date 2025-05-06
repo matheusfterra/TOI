@@ -142,6 +142,8 @@ A plataforma TOI tem como objetivo gamificar a participação de criadores de co
 | `instagram_messaging`       | Acesso a DMs via webhook do Instagram                                    |
 | `instagram_manage_messages` | Gerenciamento completo de threads de mensagens diretas                   |
 | `instagram_content_publish` | Publicar conteúdo/agendar posts diretamente via plataforma               |
+| `pages_manage_metadata` | Requisito para `pages_messaging`               |
+| `Business Asset User Profile Access` | Requisito para `chatwoot`               |
 
 ---
 
